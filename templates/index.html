@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>First Syllable Detector</title>
+    </head>
+    <body>
+        <h1>First Syllable Detector</h1>
+        <form method="post">
+            <label for="text">Enter text:</label><br>
+            <input type="text" id="text" name="text"><br><br>
+            <input type="submit" value="Submit">
+        </form>
+        {% if result %}
+            <h2>Result:</h2>
+            <p>{{ result|safe }}</p>
+        {% endif %}
+    </body>
+</html>
