@@ -11,7 +11,7 @@ For example, if you input this text:
 
 The web-app will output this text:
 
-> **Mark**down is a light**weight** mark**up** lang**uage** that you can use to add form**atting** el**e**ments to plain**text** text doc**u**ments.
+> **Mark**down is a **light**weight **mark**up **lang**uage that you can use to add **form**atting **el**ements to **plain**text text **doc**uments.
 
 As you can see, the bolded syllables make the text more readable and emphasize the key terms. You can also adjust the level of bolding according to your preference.
 
