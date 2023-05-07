@@ -15,4 +15,4 @@ The web-app will output this text:
 
 As you can see, the bolded syllables make the text more readable and emphasize the key terms. You can also adjust the level of bolding according to your preference.
 
-The web-app is free and open-source, and you can access it online or download it from GitHub. It is a quick and handy tool for anyone who wants to improve their text readability and make their writing more appealing and effective.
+The web-app is free and open-source, and you can access it online or download it from GitHub. It is a quick and handy tool for anyone who wants to improve their text readability and make their writing more appealing and effective. 
